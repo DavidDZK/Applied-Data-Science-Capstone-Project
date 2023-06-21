@@ -1,4 +1,4 @@
-# Applied-Data-Science-Capstone-Project
+# Applied-Data-Science-Capstone-Project-SpaceX
 
 ## The goal of the capstone project is to predict if the Falcon 9 first stage will land successfully. 
 
